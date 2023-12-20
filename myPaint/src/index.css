@@ -17,6 +17,7 @@
 body {
   color: #000000;
   background-color: #bcbcbc;
+  margin: 0;
 }
 
 @media (prefers-color-scheme: light) {
